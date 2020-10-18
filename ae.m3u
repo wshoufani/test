@@ -103,3 +103,19 @@ http://51.158.73.206/hls/stream.m3u8
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="",Yas
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8?adtv
+#EXTINF:-1,ON E
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/10.ts
+#EXTINF:-1,Bara3em
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/7.ts
+#EXTINF:-1,Zee Alwan
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/1.ts
+#EXTINF:-1,Zee Aflam
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/2.ts
+#EXTINF:-1,MIX Hollywood
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/3.ts
+#EXTINF:-1,Maspero Zaman
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/6.ts
+#EXTINF:-1,Jeem Kids
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/4.ts
+#EXTINF:-1,Cartoon Network Arabia
+http://138.68.91.222:9000/live/feGC1DpI8j/46yCxsUOR3/5.ts

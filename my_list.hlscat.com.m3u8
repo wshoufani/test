@@ -1,36 +1,33 @@
-#EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="Undefined",Al Manar
-https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="Undefined",Al Mayadeen
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="General",Alhayat TV
-https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/817xRPg.png" group-title="Religious",Aliman TV
-https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="http://futuretvnetwork.com/images/logo.png" group-title="Undefined",Future TV
-http://178.132.3.162:88/Future_TV/video.m3u8?token=test&checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="Undefined",LBC
-http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test&checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Undefined",MTV Lebanon
-http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test&checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Undefined",Nabaa TV
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Undefined",Nabaa TV
-http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="Undefined",Nabaa TV
-http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="Religious",Nour Al Koddas
-https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" group-title="Religious",Nour Al Shabab
-https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="Religious",Nour Al Sharq
-https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="Religious",Nour Mariam
-https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="Religious",NourSAT
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="LB" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="Undefined",OTV
-http://178.132.3.162:88/OTV/video.m3u8?token=test&checkedby:hlscat.com
-#EXTINF:-1,AR: LBC International LEBANON
-http://dinamikiptv.com:7777/adalet/adalet123/52403
+#EXTINF:-1 tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" group-title="LEBANON 🇱🇧",تلفزيون لبنان
+http://t100v.com/paid/287692/390936/1873
+#EXTINF:-1 tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON 🇱🇧",NBN FHD
+http://t100v.com/paid/287692/390936/23007
+#EXTINF:-1 tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON 🇱🇧",NBN
+http://t100v.com/paid/287692/390936/724
+
+#EXTINF:-1 group-title="LEBANON 🇱🇧" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d5/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84.jpg",المستقبل
+http://t100v.com/paid/287692/390936/1871
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="LEBANON 🇱🇧",الجديد FHD
+http://t100v.com/paid/287692/390936/46413
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="LEBANON 🇱🇧",الجديد 
+http://t100v.com/paid/287692/390936/46432
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧",MTV FHD
+http://t100v.com/paid/287692/390936/46359
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧",MTV HD
+http://t100v.com/paid/287692/390936/43746
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/1280px-OTV_%28logo%29.svg.png" group-title="LEBANON 🇱🇧",Otv FHD 
+http://t100v.com/paid/287692/390936/46416
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/1280px-OTV_%28logo%29.svg.png" group-title="LEBANON 🇱🇧",Otv HD 
+http://t100v.com/paid/287692/390936/46433
+#EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="LEBANON 🇱🇧",LBC FHD
+http://t100v.com/paid/287692/390936/21891
+#EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="LEBANON 🇱🇧",LBC
+http://t100v.com/paid/287692/390936/394
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧",LBCI FHD
+http://t100v.com/paid/287692/390936/46415
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧",LBCI HD
+http://t100v.com/paid/287692/390936/46431
+#EXTINF:-1 tvg-logo="https://almanar.com.lb/framework/assets/images/logo-tech.png" group-title="LEBANON 🇱🇧",Al Manar
+http://t100v.com/paid/287692/390936/818
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png" group-title="LEBANON 🇱🇧",العالم
+http://t100v.com/paid/287692/390936/1032

@@ -31,6 +31,8 @@ http://t100v.com/paid/287692/390936/46431
 http://t100v.com/paid/287692/390936/818
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png" group-title="LEBANON 🇱🇧",العالم
 http://t100v.com/paid/287692/390936/1032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON 🇱🇧",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="LEBANON 🇱🇧",Nour Al Koddas
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" group-title="LEBANON 🇱🇧",Nour Al Shabab

@@ -25,10 +25,11 @@ http://t100v.com/paid/254596/595411/46433
 http://t100v.com/paid/254596/595411/21891
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="LEBANON 🇱🇧",LBC
 http://t100v.com/paid/254596/595411/394
-#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧",LBCI FHD
-http://t100v.com/paid/254596/595411/46415
-#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧",LBCI HD
-http://t100v.com/paid/254596/595411/46431
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI FHD
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI SD
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
+
 #EXTINF:-1 tvg-logo="https://almanar.com.lb/framework/assets/images/logo-tech.png" group-title="LEBANON 🇱🇧",Al Manar
 http://t100v.com/paid/254596/595411/818
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png" group-title="LEBANON 🇱🇧",العالم

@@ -7,33 +7,25 @@ http://t100v.com/paid/254596/595411/23007
 #EXTINF:-1 tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" group-title="LEBANON 🇱🇧",NBN
 http://t100v.com/paid/254596/595411/724
 
-#EXTINF:-1 group-title="LEBANON 🇱🇧" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d5/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84.jpg",المستقبل
-http://t100v.com/paid/254596/595411/1871
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="LEBANON 🇱🇧",الجديد FHD
-http://t100v.com/paid/254596/595411/46413
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="LEBANON 🇱🇧",الجديد 
-http://t100v.com/paid/254596/595411/46432
-#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧",MTV FHD
-http://t100v.com/paid/254596/595411/46359
-#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧",MTV HD
-http://t100v.com/paid/254596/595411/43746
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/1280px-OTV_%28logo%29.svg.png" group-title="LEBANON 🇱🇧",Otv FHD 
-http://t100v.com/paid/254596/595411/46416
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/1280px-OTV_%28logo%29.svg.png" group-title="LEBANON 🇱🇧",Otv HD 
-http://t100v.com/paid/254596/595411/46433
+#EXTINF:-1 tvg-logo="https://almanar.com.lb/framework/assets/images/logo-tech.png" group-title="LEBANON 🇱🇧", |S1| Al Manar
+http://manar.live:80/x.smil/chunklist_w636211964_b500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/OTV_%28logo%29.svg/1280px-OTV_%28logo%29.svg.png" group-title="LEBANON 🇱🇧", |S1| Otv FHD 
+http://digitalxpress.gcdn.co/live1/otv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/d/d5/%D8%B4%D8%B9%D8%A7%D8%B1_%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84.jpg" group-title="LEBANON 🇱🇧", |S1| Future
+http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="LEBANON 🇱🇧", |S1| Al jadied
+http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧", |S1|  MTV 
+http://digitalxpress.gcdn.co/live1/mtvlebanon/index.m3u8
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="LEBANON 🇱🇧",LBC FHD
 http://t100v.com/paid/254596/595411/21891
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="LEBANON 🇱🇧",LBC
 http://t100v.com/paid/254596/595411/394
-#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI FHD
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |LBC| LBCI FHD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |MBC| LBCI SD
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |LBC| LBCI SD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://almanar.com.lb/framework/assets/images/logo-tech.png" group-title="LEBANON 🇱🇧",Al Manar
-http://t100v.com/paid/254596/595411/818
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/20/%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85.png" group-title="LEBANON 🇱🇧",العالم
-http://t100v.com/paid/254596/595411/1032
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON 🇱🇧",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="LEBANON 🇱🇧",Nour Al Koddas

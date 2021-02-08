@@ -17,7 +17,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/futuretv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Al_Jadeed_TV_LOGO_2018.jpg" group-title="LEBANON 🇱🇧", |S1| Al jadied
 http://188.160.0.148:1935/5c76a1358452981/_definst_/smil:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧", |S1|  MTV 
-http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
+http://newlook.to:80/amy3_ce2307/749558/115213
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="LEBANON 🇱🇧",LBC FHD
 http://t100v.com/paid/254596/595411/21891
 #EXTINF:-1 tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/lbc.png" group-title="LEBANON 🇱🇧",LBC

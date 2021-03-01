@@ -10,6 +10,8 @@ http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/13277.m3u8?checkedby:hls
 http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/13275.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧", |MTV| Lebanon HD 
 http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/13278.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |LBC| LBCI FHD
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |LBC| LBCI HD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON 🇱🇧",Al Mayadeen

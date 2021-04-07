@@ -1,17 +1,19 @@
 #EXTM3U
 
 #EXTINF:0 tvg-country="LB" tvg-logo="" group-title="LEBANON 🇱🇧",AL JADEED
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/13287.m3u8?checkedby:hlscat.com
+http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/671
 #EXTINF:0 tvg-country="LB" tvg-logo="https://i.imgur.com/dmDzNQO.png" group-title="LEBANON 🇱🇧",Al Manar
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="" group-title="LEBANON 🇱🇧",NBN-HD
 http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/13277.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="LB" tvg-logo="" group-title="LEBANON 🇱🇧",Teleliban TV
 http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/13275.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="" group-title="LEBANON 🇱🇧",OTV
+http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/662
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/assets/images/01-landing-no-title/logo.fw.png" group-title="LEBANON 🇱🇧", |MTV| Lebanon HD 
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/13278.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |LBC| LBCI FHD
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
+http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/661
+#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |LBC| LBC International
+http://iptv.live-plus.me:25461/xQo77lvl79/U6m7QCkfxC/663
 #EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", |LBC| LBCI HD
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="LEBANON 🇱🇧",Al Mayadeen

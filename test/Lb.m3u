@@ -10,8 +10,8 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38294
 http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38295
 #EXTINF:-1,OTV TV
 http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38296
-#EXTINF:-1,LDC
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38297
+#EXTINF:-1,LBCI
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
 #EXTINF:-1,FUTURE TV
 http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38299
 #EXTINF:-1,NBN LEBANON HD
@@ -26,6 +26,3 @@ http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38303
 http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38304
 #EXTINF:-1,Hawacom TV
 http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38305
-#EXTINF:-1 tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="LEBANON 🇱🇧", 
-|LBCI| Lebanon HD
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8

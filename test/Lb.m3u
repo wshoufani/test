@@ -4,25 +4,23 @@
 http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38292
 #EXTINF:-1,LEBANON TV
 http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38293
-#EXTINF:-1,MTV LEBANON HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38294
-#EXTINF:-1,AL JADEED
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38295
-#EXTINF:-1,OTV TV
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38296
-#EXTINF:-1,LBCI
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-#EXTINF:-1,FUTURE TV
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38299
-#EXTINF:-1,NBN LEBANON HD
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38300
-#EXTINF:-1,ALAAN TV LEBANON
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38301
-#EXTINF:-1,AGHANI AGHANI TV
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38302
-#EXTINF:-1,AL MANAR
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38303
-#EXTINF:-1,LBC SAT
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38304
-#EXTINF:-1,Hawacom TV
-http://xtra.xcs521.cz:8080/00:1A:79:17:07:DA/ziajdjjfdifjd64646/38305
+#EXTINF:-1,LBC International HD
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/685
+#EXTINF:-1,OTV HD
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/686
+#EXTINF:-1,Al Jadeed TV HD
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/33
+#EXTINF:-1,LBC FHD
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/20088
+#EXTINF:-1,Mtv Lebanon HD
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/20087
+#EXTINF:-1,NBN HD TV
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/8
+#EXTINF:-1,Al Mayadeen TV
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/753
+#EXTINF:-1,Nour Koddas
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/953
+#EXTINF:-1,Noursat
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/783
+#EXTINF:-1,Noursat Alchabab
+http://api.gostartv.com:8080/mag00:1A:79:26:D9:06/PypjSEpQaz/811

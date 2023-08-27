@@ -1,0 +1,449 @@
+#EXTM3U
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logos_Ramadan_2023/original/logos_Ramadan_2023.png", ahlakid.com - |SHAHID| RAMADAN 2023
+https://cdxaws-ak.akamaized.net/v1/channel/Ramadan_Maana/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/Jul/al-ola/original/al-ola.png", ahlakid.com - |SHAHID| SHAHID AL OULA
+https://cdxaws-ak.akamaized.net/v1/channel/Shahid_Al_Oula__/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/Jul/khalegy/original/khalegy.png", ahlakid.com - |SHAHID| KHALEEJI
+https://cdxaws-ak.akamaized.net/v1/channel/Khaleeji_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/aa/Masr/original/Masr.png", ahlakid.com - |SHAHID| MASR
+https://cdxaws-ak.akamaized.net/v1/channel/Masr-/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/Sham_logo/original/Sham_logo.png", ahlakid.com - |SHAHID| AL SHAM
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Sham--/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_Latin/original/logo_Latin.png", ahlakid.com - |SHAHID| LATIN
+https://cdxaws-ak.akamaized.net/v1/channel/Latin/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/turky_New_logo/original/turky_New_logo.png", ahlakid.com - |SHAHID| TURKI
+https://cdxaws-ak.akamaized.net/v1/channel/Turki_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/aa/korean/original/korean.png", ahlakid.com - |SHAHID| KOREAN
+https://cdxaws-ak.akamaized.net/v1/channel/Korean-/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/Tarekhy/original/Tarekhy.png", ahlakid.com - |SHAHID| TAREEKHI
+https://cdxaws-ak.akamaized.net/v1/channel/Tareekhi_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/Aflam_logo/original/Aflam_logo.png", ahlakid.com - |SHAHID| AFLAM
+https://shls-live-ak.akamaized.net/out/v1/e96c7e9f639a49d089616170ef1821a8/index_7.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/Aflam-Comedy/original/Aflam-Comedy.png", ahlakid.com - |SHAHID| AFLAM COMEDY
+https://cdxaws-ak.akamaized.net/v1/channel/Aflam_Comedy/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/comedy/original/comedy.png", ahlakid.com - |SHAHID| COMEDY
+https://cdxaws-ak.akamaized.net/v1/channel/Comedy---/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/movies_logo/original/movies_logo.png", ahlakid.com - |SHAHID| MOVIES
+https://cdxaws-ak.akamaized.net/v1/channel/movies/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/aa/bollywood/original/bollywood.png", ahlakid.com - |SHAHID| BOLLYWOOD
+https://cdxaws-ak.akamaized.net/v1/channel/Bollywood_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logos_movies_thriller/original/logos_movies_thriller.png", ahlakid.com - |SHAHID| MOVIES THRILLER
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Thriller/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_movies_action/original/logo_movies_action.png", ahlakid.com - |SHAHID| MOVIES ACTION
+https://cdxaws-ak.akamaized.net/v1/channel/Movies_Action/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/ramz_logo/original/ramz_logo.png", ahlakid.com - |SHAHID| RAMEZ
+https://cdxaws-ak.akamaized.net/v1/channel/Ramez/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/logo_AlKabeer_Awi/original/logo_AlKabeer_Awi.png", ahlakid.com - |SHAHID| AL KABEER AWI
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Kabeer_Awi/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/Tash_logo/original/Tash_logo.png", ahlakid.com - |SHAHID| TASH
+https://cdxaws-ak.akamaized.net/v1/channel/Tash_Matash_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/logo_AlAsouf0/original/logo_AlAsouf0.png", ahlakid.com - |SHAHID| AL ASOUF
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Asouf/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/Al-Heba_logo0/original/Al-Heba_logo0.png", ahlakid.com - |SHAHID| AL HAYBA
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Hayba/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/Arous_Beirut_logo/original/Arous_Beirut_logo.png", ahlakid.com - |SHAHID| AROUS BEIRUT
+https://cdxaws-ak.akamaized.net/v1/channel/Arous_Beirut_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/Alanisa_farah_Logo/original/Alanisa_farah_Logo.png", ahlakid.com - |SHAHID| AL ANISA FARAH
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Anisa_Farah/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/Bab-Alhara0/original/Bab-Alhara0.png", ahlakid.com - |SHAHID| BAB AL HARA
+https://cdxaws-ak.akamaized.net/v1/channel/Bab_Al_Hara/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/logo_Masrah_Masr/original/logo_Masrah_Masr.png", ahlakid.com - |SHAHID| MASRAH MASR
+https://cdxaws-ak.akamaized.net/v1/channel/Masrah_Masr/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/aa/masr7yat/original/masr7yat.png", ahlakid.com - |SHAHID| AL MASRAH
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Masrah/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/naser_logo0/original/naser_logo0.png", ahlakid.com - |SHAHID| NASER AL QASSABY
+https://cdxaws-ak.akamaized.net/v1/channel/Naser_Al_Qassaby/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/nadin_logo/original/nadin_logo.png", ahlakid.com - |SHAHID| NADINE NJEIM
+https://cdxaws-ak.akamaized.net/v1/channel/Nadine_Njeim_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/aa/astora/original/astora.png", ahlakid.com - |SHAHID| AL OSTOURA
+https://cdxaws-ak.akamaized.net/v1/channel/Al_Ostoura_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/zaeem/original/zaeem.png", ahlakid.com - |SHAHID| AL ZAEEM
+https://cdxaws-ak.akamaized.net/v1/channel/AlZaeem--/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/Haseno/original/Haseno.png", ahlakid.com - |SHAHID| HASSINO
+https://cdxaws-ak.akamaized.net/v1/channel/Hassino_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/aa/levant/original/levant.png", ahlakid.com - |SHAHID| LEVANT
+https://cdxaws-ak.akamaized.net/v1/channel/Levant_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_AB_Talks/original/logo_AB_Talks.png", ahlakid.com - |SHAHID| ABTALKS
+https://cdxaws-ak.akamaized.net/v1/channel/ABtalks/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_Jinaya/original/logo_Jinaya.png", ahlakid.com - |SHAHID| JINAYA
+https://cdxaws-ak.akamaized.net/v1/channel/Jinaya/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_Ghomoud/original/logo_Ghomoud.png", ahlakid.com - |SHAHID| GHOMOUD
+https://cdxaws-ak.akamaized.net/v1/channel/Ghomoud/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2023/AmrAhmed/May/logo_Aldaafff/original/logo_Aldaafff.png", ahlakid.com - |SHAHID| AL DHAIF
+https://cdxaws-ak.akamaized.net/v1/channel/Talk_Shows/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Randa/logo_Safer_manna/original/logo_Safer_manna.png", ahlakid.com - |SHAHID| SAFER MANNA
+https://cdxaws-ak.akamaized.net/v1/channel/Safer_manna/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/maqaleb/original/maqaleb.png", ahlakid.com - |SHAHID| MAQALEB
+https://cdxaws-ak.akamaized.net/v1/channel/Maqaleb--/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/ma_lm_tra_logo/original/ma_lm_tra_logo.png", ahlakid.com - |SHAHID| MA LAM TARA
+https://cdxaws-ak.akamaized.net/v1/channel/Ma_Lam_Tara/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/style_Logo/original/style_Logo.png", ahlakid.com - |SHAHID| STYLE
+https://cdxaws-ak.akamaized.net/v1/channel/Style_/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/2022/aa/alhofra0/original/alhofra0.png", ahlakid.com - |SHAHID| THE PIT
+https://cdxaws-ak.akamaized.net/v1/channel/The_Pit/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_Just_for_Laughs0/original/logo_Just_for_Laughs0.png", ahlakid.com - |SHAHID| JUST FOR LAUGHS
+https://shls-live-ak.akamaized.net/out/v1/789c88ad335e4547ad14a84c19a5ba31/index_4.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/Alchif/original/Alchif.png", ahlakid.com - |SHAHID| THE CHEF
+https://cdxaws-ak.akamaized.net/v1/channel/Top-Chef/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Oct22/mwahb/original/mwahb.png", ahlakid.com - |SHAHID| MAWAHEB
+https://cdxaws-ak.akamaized.net/v1/channel/Mawaheb-/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/WWE_new_logo/original/WWE_new_logo.png", ahlakid.com - |SHAHID| WWE
+https://cdxaws-ak.akamaized.net/v1/channel/WWE/index_hls/2.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_Rashid_Al_Majid_2/original/logo_Rashid_Al_Majid_2.png", ahlakid.com - |SHAHID| RASHED AL-MAJED
+https://rashed-almajed-ak.akamaized.net/out/v1/77b0946130344d1388e5cd34afdcb772/index_3.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_mohamed_Abdu_2/original/logo_mohamed_Abdu_2.png", ahlakid.com - |SHAHID| MUHAMMAD ABDO
+https://mohammed-abdou-ak.akamaized.net/out/v1/3b57275cf54747cda4cda03ecf146f92/index_3.m3u8
+#EXTINF:-1 group-title="24/7 SHAHID" tvg-logo="http://shahid.mbc.net/mediaObject/slider/Hatem_Slider/2022/Dec22/clean/logo_Abdallah_2/original/logo_Abdallah_2.png", ahlakid.com - |SHAHID| ABDUL MAJEED ABDULLAH
+https://abdulmajeed-abdullah-ak.akamaized.net/out/v1/b5759c5db43d4d10b382a4bc2b337ab5/index_3.m3u8
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5n0VuDQVCkBbRjEbaFSC7svCykv.jpg", ahlakid.com - Code Emperor
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159633.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qeDnJFKAndpv1ipxcSsAepNqn5Z.jpg", ahlakid.com - Dark Cloud
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159632.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/89zZgr0cy3dVOtDDyuhU6ytd8cv.jpg", ahlakid.com - The Reef 2 : Traquées
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159631.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6EAjkucZq2NbmsiCNHm8mMaPyZ.jpg", ahlakid.com - Menteur
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159630.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gohsRXkUrlY1cLo9feNoEtQGeeT.jpg", ahlakid.com - La Nuit du 12
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159629.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC3we7vTlCkd3BQuB3cGonc974j.jpg", ahlakid.com - La Petite Nemo et le Monde des rêves
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159628.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg", ahlakid.com - One Way
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159627.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBKaj1NqsK9GUdECqU25fHSAC3U.jpg", ahlakid.com - La Forêt silencieuse
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159626.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FchVTEnjQw6m5NnQBa8QwjUv6T.jpg", ahlakid.com - The Visitor
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159625.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4p2HKvhBUXCE20eEiM1pBCnvDN.jpg", ahlakid.com - l′esprit de Noël
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159624.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sshYxlZEGEMNMqS7hIZVtqxcz6e.jpg", ahlakid.com - Il était une fois
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159623.mkv
+#EXTINF:-1 group-title="FILM 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2mOwQQcPuQFFEngX71Dh9NiDai.jpg", ahlakid.com - Don′t Worry Darling
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/159622.mkv
+#EXTINF:-1 group-title="FILM ARAB" tvg-logo="https://cimanow.cc/wp-content/uploads/2022/11/%D9%81%D9%8A%D9%84%D9%85-11-11-2022.jpg", ahlakid.com - فيلم 11:11
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158134.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4h9b8E2C9FdIVKbQRDMwZzpSIjL.jpg", ahlakid.com - Taken
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158129.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9T34Mfv3yM59iMaUIXJjYQlv2JL.jpg", ahlakid.com - Taken 2
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158128.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32FArNI7JfAI2QjzjePPxPpLT8Y.jpg", ahlakid.com - Taken 3
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158127.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pFCZwMEkPaWpjBfZ5tiZWxHTo8I.jpg", ahlakid.com - Blade
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158126.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg", ahlakid.com - Blade II
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158125.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bA9HTKZljF80Q0tmtYcjbQ0viwg.jpg", ahlakid.com - Blade : Trinity
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158124.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/my4J6c4dfTV97zbuTRqoLK2sqSj.jpg", ahlakid.com - Rush Hour
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158123.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg", ahlakid.com - Rush Hour 2
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158122.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zpsIUMjc2YUDFvjrhCxTMn6q5Wo.jpg", ahlakid.com - Rush Hour 3
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158121.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/at4ZF98aNjML2IeauN0dnbm6aJ5.jpg", ahlakid.com - Bad Boys
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158120.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sctMbUXLNzaOfMjVfBHXHBmX6e.jpg", ahlakid.com - Bad Boys II
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158119.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbo43M8kdKK5Ku2oaKDMO9PNyo5.jpg", ahlakid.com - Bad Boys for Life
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158118.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riwrxn8gSdvHqARVxSlwMaEJxT3.jpg", ahlakid.com - Transformers
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158117.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yF7zVeOR5MSAutC7mDB2jla4cNQ.jpg", ahlakid.com - Transformers : L’Âge de l’extinction
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158114.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oGw5OVdGHx91f70MqJPCq4JlPN8.jpg", ahlakid.com - Transformers : The Last Knight
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158113.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAWcwnGUhDn9SGSjhDFAbWmh9A7.jpg", ahlakid.com - Bumblebee
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158112.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lO5u6krhCeYXG7HVjfnimWOrdSs.jpg", ahlakid.com - Ocean′s Eleven
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158111.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOiVwflPyS6U8Tz2r43bZo165MM.jpg", ahlakid.com - Ocean′s Twelve
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158110.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shR23Uj8lKAwkxDBXH2gEPi6OPr.jpg", ahlakid.com - Ocean′s Thirteen
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158109.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dLDCQD6IICbhwOOBPKGDVlMz6n.jpg", ahlakid.com - Resident Evil : Afterlife
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158105.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNPaG5wCCqmI8fWccSNx8eDSnd6.jpg", ahlakid.com - Resident Evil : Retribution
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158104.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olMjMasR2QeGheZwCXKvELucOHv.jpg", ahlakid.com - Resident Evil : Chapitre Final
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158103.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd0VCTHFFIE7BbZfy0aEIkOYxGA.jpg", ahlakid.com - Men in Black
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158102.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uuCitEX1b1OdWqu8upqoSuIwmoz.jpg", ahlakid.com - Men in Black II
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158101.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sV2vpN4AzV4gzJghxTAI8sMHcl.jpg", ahlakid.com - Men in Black III
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158100.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbxQ44VRdM2PVzHSNajUseUteem.jpg", ahlakid.com - Harry Potter à l′école des sorciers
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158099.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KpHRokGpiaqEGpjYe0rpywtvUx.jpg", ahlakid.com - Harry Potter et la Chambre des secrets
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158098.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4P2079IyK19njHDP2GwQrKdvzd.jpg", ahlakid.com - Harry Potter et le Prisonnier d′Azkaban
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158097.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBak1pn5pbI4ycAbrgMMn1YI7P1.jpg", ahlakid.com - Harry Potter et la Coupe de feu
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158096.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/alQOPmKEPHkH4BLMEla1vTNYrUr.jpg", ahlakid.com - Harry Potter et les Reliques de la mort : 2ème partie
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158092.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEoqbqtLc4CcwDUDqxmEDSWpWTZ.jpg", ahlakid.com - Matrix
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158091.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZVnFZUjahpLz7B42mkVjtEl9Wl.jpg", ahlakid.com - Matrix Reloaded
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158090.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xOCeckuZDzqydvt3vLlzftZkef1.jpg", ahlakid.com - Matrix Revolutions
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158089.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCF43aQ77ShTfKyY8vAJBVHN5j3.jpg", ahlakid.com - Matrix Resurrections
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158088.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eQPl7d12djrnMZsBJIqeUmDgkz.jpg", ahlakid.com - Hunger Games
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158087.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oOHRjh3RsUAKQocOVjhaid3CLm.jpg", ahlakid.com - Hunger Games : L′Embrasement
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158086.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIp8jZmsRdA6DrboUsi4YViDvCT.jpg", ahlakid.com - Mission : Impossible 2
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158082.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIp8jZmsRdA6DrboUsi4YViDvCT.jpg", ahlakid.com - Mission : Impossible 3
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158081.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwwC2u9MIVk0V8cJKLuHKdDktBx.jpg", ahlakid.com - Mission : Impossible - Protocole Fantôme
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158080.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ft1MXcAM6K9qJqr3LM9dtCR9OR.jpg", ahlakid.com - Mission : Impossible - Rogue Nation
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158079.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mddMreLheR9JE0BTyxDEc6QG5ie.jpg", ahlakid.com - Mission : Impossible - Fallout
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158078.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fhY7ry0Ljsfg4HSJzB7bnJ0xPnc.jpg", ahlakid.com - La Mémoire dans la peau
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158077.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pXKWSHGVb9eHoXgEZZnRZVM3gi.jpg", ahlakid.com - La Mort dans la peau
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158076.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/otHGLrjjyHK8BQ8RQRe6d6IKLWn.jpg", ahlakid.com - La Vengeance dans la peau
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158075.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7OUVM57BOCGbhQ6UerNrb9Zar26.jpg", ahlakid.com - Jason Bourne : l’héritage
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158074.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klMer4gnf6BI9DdsoSaIgaXkbKI.jpg", ahlakid.com - Ong-Bak The Thai Warrior
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158072.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klMer4gnf6BI9DdsoSaIgaXkbKI.jpg", ahlakid.com - Ong-Bak 2 : La naissance du dragon
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158071.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHJZCJOGJi9zv3N3fYTtGoJ3IZ5.jpg", ahlakid.com - Ong-Bak 3 : L′ultime combat
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158070.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WHyd1YHYV3YD9M7VSA5YZGyf8b.jpg", ahlakid.com - chapitre 2 : Tentation
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158068.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3pwkvVMC6YGiMmgWahbN4XAk2.jpg", ahlakid.com - chapitre 3 : Hésitation
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158067.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGaiAmdmjfpcsHWzu9LJfjYatrA.jpg", ahlakid.com - 1re partie
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158066.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRL9xkJfJprDx4KKjDwFpeW50TV.jpg", ahlakid.com - 2e partie
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158065.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbeWnmnHNEnuVej6wcjUv0eY6IL.jpg", ahlakid.com - Batman
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158064.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aExqFVyVwqKClvnMxy6ujaFOHM7.jpg", ahlakid.com - Batman : Le Défi
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158063.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nS2fskuUG0zktxPLSNgsYXbR8iM.jpg", ahlakid.com - Batman Forever
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158062.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbGlp0egjL8O3BEAjNSSJ66yMMp.jpg", ahlakid.com - Batman & Robin
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158061.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqB8Xlu0QdwsONakoiKtortANdn.jpg", ahlakid.com - Batman Begins
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158060.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krEWtXK2K7dg5RyMlx9f5WnI1xd.jpg", ahlakid.com - Batman v Superman : L′Aube de la Justice
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158059.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9JGg10CW1DzXEdWL54ewkUko6N.jpg", ahlakid.com - The Batman..
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158058.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phRdIZeYf33vzilIMUmmbPTn7Gs.jpg", ahlakid.com - X Men
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158057.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/phRdIZeYf33vzilIMUmmbPTn7Gs.jpg", ahlakid.com - X-Men 2
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158056.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5oKaVtfy5Y02oI2LdCo638rg6U.jpg", ahlakid.com - X-Men : L′Affrontement final
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158055.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtuSk6E5RF30yM7P0mqnyDdYYl4.jpg", ahlakid.com - X-Men First Class
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158054.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLSzWQ2jwny5msRYcGJ8ipprZSM.jpg", ahlakid.com - X-Men : Days of Future Past
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158053.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qttNmCib9gHhR5q0QoZ3FgmGom9.jpg", ahlakid.com - X-Men: Apocalypse
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158052.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAIGX0nlwlb5sMb4uDRGNFqMyG9.jpg", ahlakid.com - Thor : Le Monde des ténèbres
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158050.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAA8RXkgF87jSWWMSf6hgLl73mk.jpg", ahlakid.com - Thor : Ragnarok
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158049.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSMarEm3ESOOr11dzsep2RZ1ClD.jpg", ahlakid.com - Thor : Love and Thunder..
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158048.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lD4QVFhDmgxuJ9sQF9rw7bTsy0.jpg", ahlakid.com - Le Transporteur
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158046.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lD4QVFhDmgxuJ9sQF9rw7bTsy0.jpg", ahlakid.com - Le Transporteur 2
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158045.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lD4QVFhDmgxuJ9sQF9rw7bTsy0.jpg", ahlakid.com - Le Transporteur 3
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158044.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyJeUhOFIbQDAHRgnmxjgJZX3Fg.jpg", ahlakid.com - Le Transporteur: Héritage
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158042.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9nwlPCvMpgxDwQ9JQ3zRAPpEjd.jpg", ahlakid.com - Terminator
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158041.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKCG5N5gDjDmxg07PXWsrPVrdCg.jpg", ahlakid.com - Terminator 2 : Le Jugement dernier
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158040.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnvUndOuRmnMwTghMLhwsTMY4mf.jpg", ahlakid.com - Terminator 3 : Le Soulèvement des machines
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158039.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvNh6F4jxb263ewe1kKTlq94ZAR.jpg", ahlakid.com - Terminator Renaissance
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158038.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiHsAVw2M6j3JHUOPoqAR7X55iB.jpg", ahlakid.com - Terminator : Dark Fate
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158036.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtX0U0VgRswkD2Ks5CdqhywRnyP.jpg", ahlakid.com - Expendables : Unité spéciale
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158035.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktEjjZd5OCUwNzEz8zliIJIgxjh.jpg", ahlakid.com - Expendables 2 : Unité spéciale
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158034.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q52QjohnQWKcB2nLcEnE3FRv2pE.jpg", ahlakid.com - Expendables 3
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158033.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1SP3gyHA5ZEuf72WKx5ihtZZFO.jpg", ahlakid.com - Captain America : First Avenger
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158032.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCkOSBWsKyj7ieV4eR0BqMBFoRF.jpg", ahlakid.com - Captain America : Le Soldat de l′hiver
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158031.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/py8Js6LEl10XhUjkoOj6UGRrSFp.jpg", ahlakid.com - Captain America : Civil War
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158030.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNz1NREgddPdlzytlR8mW4B26fW.jpg", ahlakid.com - Spider-Man
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158027.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8X5HdADsW5YdmVNjwTOArMOUoL.jpg", ahlakid.com - Spider-Man 2
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158026.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SBTOPWMM3My5nDIlpNHt6dg78d.jpg", ahlakid.com - Spider-Man 3
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158025.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsIkMf1VErbF0xtrgXEZXqLgsBG.jpg", ahlakid.com - The Amazing Spider-Man
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158024.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ47R21ZGNTGr5ORxdMmxQWdcFn.jpg", ahlakid.com - The Amazing Spider-Man : Le Destin d′un héros
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158023.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77Z0g5fc1qWJ7SfHyeiHsMkYx5O.jpg", ahlakid.com - Spider-Man : Homecoming
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158022.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrNKUa5SBUwue39coJArNdDgQJM.jpg", ahlakid.com - Spider-Man : Far From Home
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158021.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SyG7dq2q0ollxJ4pSsrqcfRmVj.jpg", ahlakid.com - Spider-Man : No Way Home
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158020.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFJpvSBNtBHne1pZcCD0IMObZ4A.jpg", ahlakid.com - Iron Man
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158019.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9DSeSozGi4zpUyeOYZYMNmIv9O.jpg", ahlakid.com - Iron Man 2
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158018.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nnn7i15De88Lj4jyY3H03P3aUTz.jpg", ahlakid.com - Iron Man 3
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158017.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntpxTsTg3BsIRkMkNLffNjwftUf.jpg", ahlakid.com - The Avengers
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158016.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ntpxTsTg3BsIRkMkNLffNjwftUf.jpg", ahlakid.com - Avengers : L′Ère d′Ultron
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158015.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSfuKPtyEryeFzapZ8UgZd4aESu.jpg", ahlakid.com - Avengers : Infinity War
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158014.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXekTarZKRrVfnBwhS6xevt6BGU.jpg", ahlakid.com - Avengers : Endgame
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158013.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9H5M8u8U0R3MzzpLGBgev580JtO.jpg", ahlakid.com - Ip Man
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158012.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiJ2Aj2QC799iDqGuUuvj1pCsOE.jpg", ahlakid.com - Ip Man 2
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158011.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G0QWXEnjpzpqzjxre4g5V1MkiY.jpg", ahlakid.com - Ip Man 3
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158010.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dM06xwbJ3EUsJoHTV5QiKP0HeF.jpg", ahlakid.com - Ip Man 4 : Le Dernier Combat
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158009.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmY8rE2HzWzZs5S81CygXXYDjki.jpg", ahlakid.com - The Fast and the Furious 1
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158008.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riIa9UIxyhhOBIXI8vhpWmcesGB.jpg", ahlakid.com - 2 Fast 2 Furious
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158007.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGATiiEgoemoQuHNRjiULxpSR6.jpg", ahlakid.com - Fast & Furious : Tokyo drift
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158006.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sqFEf2NzgNHRskiPFWf5VqiVat.jpg", ahlakid.com - Fast and Furious 4
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158005.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg", ahlakid.com - Fast Five
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158004.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXwsRF2T0VugGiBkXO29M1qraAI.jpg", ahlakid.com - Fast And Furious 6
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158003.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmY8rE2HzWzZs5S81CygXXYDjki.jpg", ahlakid.com - Furious Seven
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158002.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmY8rE2HzWzZs5S81CygXXYDjki.jpg", ahlakid.com - The Fate of the Furious
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158001.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Ww3aXmfmcFPDIbuTX3gQbtueoG.jpg", ahlakid.com - F9 The Fast Saga
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/158000.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFmc6zbnx6mSoxejECYvdi3IHIs.jpg", ahlakid.com - Pirates des Caraïbes : La Malédiction du Black Pearl
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157999.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzOlMYEfNmgCDnFHj3zL3RBqwau.jpg", ahlakid.com - Pirates des Caraïbes : Le Secret du coffre maudit
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157998.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JjceHUzbtgJ4fJs6x2ow4ckH89.jpg", ahlakid.com - Pirates des Caraïbes : Jusqu′au bout du monde
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157997.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JjjjGg24IGRXIQtaZkPU59acjV.jpg", ahlakid.com - Pirates des Caraïbes : La Fontaine de jouvence
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157996.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVMudKQfhosujwgAKhfxNGfS9sL.jpg", ahlakid.com - Pirates des Caraïbes : La Vengeance de Salazar
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157995.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiEet8DGZ4DSkSLu0OLdCpmiGAw.jpg", ahlakid.com - لص بغداد
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157988.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwKIqrXU44O87E3FDYHHRWzeSDw.jpg", ahlakid.com - جحيم فى الهند
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157985.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obYFto0DMnAa7sjHS8apum4ZzZt.jpg", ahlakid.com - شمس الزناتى
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157935.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knPCWGvvYvbUTONtA08lxsrnjo3.jpg", ahlakid.com - رسالة إلى الوالي
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157933.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNDYWK1lXa2hqFvvgAfp6XKll49.jpg", ahlakid.com - رجب فوق صفيح ساخن
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157932.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewhISIoJUmtbuhtyzlrbqX0tciV.jpg", ahlakid.com - مرجان أحمد مرجان
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157931.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mAepEdYVjukexKglrYoqr0bGLLV.jpg", ahlakid.com - مدرسة المشاغبين
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157930.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZfatkVIdZ8EejffzEhNvDSbFHq.jpg", ahlakid.com - خلي بالك من عقلك
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157929.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBMKroRI8pp43AUoBPF4b8rpDEq.jpg", ahlakid.com - عمارة يعقوبيان
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157928.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/todH3q9NtDQg7jALyWmLbBQf0GH.jpg", ahlakid.com - هاللو أمريكا
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157927.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utGmDGCzC64a81LhTKMLOobaRKd.jpg", ahlakid.com - حنفي الأبهة
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157925.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdfCd2MRNYhcHZbxItiNxdfvfLM.jpg", ahlakid.com - احترس من الخط
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157923.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7lRqU8ZdghVOW2F5SEIwZNBsrl.jpg", ahlakid.com - بودي جارد
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157922.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pYghoRN36u345Q2ynbqcwutBgZf.jpg", ahlakid.com - بوبوس
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157921.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/87HMDMj3k84R2YpYGnSfoBrkz9m.jpg", ahlakid.com - المتسول
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157920.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmCHdPigGvUEroJNR2N19HiFt4F.jpg", ahlakid.com - الزعيم
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157919.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28noyHFID8EtlYpPV1mY72x50P1.jpg", ahlakid.com - التجربة الدنماركية
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157918.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAfA2rWxKTPa1EG4fmIl1dxQgRz.jpg", ahlakid.com - المولد
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157917.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cOxm7lKX76TCKLuz7piU53apA9.jpg", ahlakid.com - اللعب مع الكبار
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157916.mp4
+#EXTINF:-1  tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVNnSNUgEKgsm9JKJXsDqkeYOs.jpg", ahlakid.com - الواد سيد الشغال
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157910.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTl4PwU1Xvls5FR6HcFGXdflu8C.jpg", ahlakid.com - التنين الجني
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157739.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRLlrhbdYE7XN6VtcZKy6o2BsOw.jpg", ahlakid.com - فيفو
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157738.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBCUJ90BVXIDSLlXUvgQcj6LOHa.jpg", ahlakid.com - حالة إستعداد قصوي
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157737.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ9aPvdfNsfbc57BWbU2Ac8fBdO.jpg", ahlakid.com - صعود جبابرة الصيادين القزم
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157736.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWehjjuY02MlyWM9GvLBsGl5mj.jpg", ahlakid.com - وحش البحر
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157735.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mab5wPeGVjbMyYMzyzfdKKnG9cl.jpg", ahlakid.com - مرحبًا بكم في اللود
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157734.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5XRs5fS2fcjd9eMYszMc7qazJv.jpg", ahlakid.com - ما وراء اللانهاية
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157733.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJIhrvIuiz2uUYNc1Yqa5U0hi4E.jpg", ahlakid.com - عبقور وأنا
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157728.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsjgiztyEu9cEZetxFlvJz6Yibw.jpg", ahlakid.com - الكل على المنصة
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157727.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14FU3Ah6lDrIPLvP2bvyDODuWXn.jpg", ahlakid.com - هانسيل وجريتل: وكلاء سريون
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157725.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tGjQrYrPCbcwMCbptXTR7fUhL5.jpg", ahlakid.com - فريق الختم:
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157724.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPPlCMYpHH1TCXV6DaXtoxmeows.jpg", ahlakid.com - ستيف ، معركة الوحش
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157723.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtpRJxUtRnAY7rugbbyT8Ifko4e.jpg", ahlakid.com - رون يفتح
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157722.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1hxTdWJ554Kj8OEHc21nscnKXq.jpg", ahlakid.com - روبي سقط من العش
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157721.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5u1P4JhXJNnEKXLXcSR0vcYq8t.jpg", ahlakid.com - ريفردانس .. مغامرة الرسوم المتحركة
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157720.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oRyUjQCD9bMXv0oSvUYiJsQlqd.jpg", ahlakid.com - مصير سلاحف النينجا
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157719.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDnumcHRzK9ljWtG5L1zRPhFRJg.jpg", ahlakid.com - رايا والتنين الأخير
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157718.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pHM0DBDnvFlxIvwPckaVIV6KbLw.jpg", ahlakid.com - رابيدز - الغزو: المريخ
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157717.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nch8NTH45TBH4JyPuugttPzoxau.jpg", ahlakid.com - بينوكيو 2022
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157716.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSMJovLoy1EfqESQF6uhPPKcHdW.jpg", ahlakid.com - بوني الصغير - الجيل الجديد
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157715.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1a5ZNjSDf80nqWWq0oh9up2tPrt.jpg", ahlakid.com - لوك
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157714.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFwFp5QVHazxTklKGiJ0G59pVab.jpg", ahlakid.com - فندق ترانسيلفانيا: تغييرات الوحش
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157711.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/75s7inwv1WHRuySyjA6p0oMaz9Z.jpg", ahlakid.com - إنكانتو ، عائلة مادريجال الرائعة
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157710.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyCTR7gBBKgTq9Iv1asfHUB4NV1.jpg", ahlakid.com - المحقق كونان - قناص البعد
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157709.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Nf7UH8uExdV2Ta4UupmnYjCkYc.jpg", ahlakid.com - كريبتو والحيوانات الخارقة
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157708.mp4
+#EXTINF:-1 group-title="FILM ANIMATION AR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIuAEGlA5UW5eUNPhsRI8wuxrUJ.jpg", ahlakid.com - تيك وتاك ، سناجب المغامرات
+http://1.revportal.eu:80/movie/SPIDER_mpXxio/JUMusgQUzE/157707.mp4
+#EXTINF:-1 group-title="ARABIC CHANNEL", ahlakid.com - AR ART HEKAYAT 2
+http://1.revportal.eu:80/SPIDER_mpXxio/JUMusgQUzE/155326
